@@ -1,0 +1,10 @@
+C:\Users\e9857\source\repos\IceWall Random\bin\Debug\IceWall Random.exe.config
+C:\Users\e9857\source\repos\IceWall Random\bin\Debug\IceWall Random.exe
+C:\Users\e9857\source\repos\IceWall Random\bin\Debug\IceWall Random.pdb
+C:\Users\e9857\source\repos\IceWall Random\obj\Debug\IceWall Random.csprojAssemblyReference.cache
+C:\Users\e9857\source\repos\IceWall Random\obj\Debug\IceWall_Random.Form1.resources
+C:\Users\e9857\source\repos\IceWall Random\obj\Debug\IceWall_Random.Properties.Resources.resources
+C:\Users\e9857\source\repos\IceWall Random\obj\Debug\IceWall Random.csproj.GenerateResource.cache
+C:\Users\e9857\source\repos\IceWall Random\obj\Debug\IceWall Random.csproj.CoreCompileInputs.cache
+C:\Users\e9857\source\repos\IceWall Random\obj\Debug\IceWall Random.exe
+C:\Users\e9857\source\repos\IceWall Random\obj\Debug\IceWall Random.pdb
