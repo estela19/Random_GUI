@@ -8,3 +8,13 @@ C:\Users\e9857\source\repos\IceWall Random\obj\Debug\IceWall Random.csproj.Gener
 C:\Users\e9857\source\repos\IceWall Random\obj\Debug\IceWall Random.csproj.CoreCompileInputs.cache
 C:\Users\e9857\source\repos\IceWall Random\obj\Debug\IceWall Random.exe
 C:\Users\e9857\source\repos\IceWall Random\obj\Debug\IceWall Random.pdb
+D:\GitHub\Random_GUI\bin\Debug\IceWall Random.exe.config
+D:\GitHub\Random_GUI\bin\Debug\IceWall Random.exe
+D:\GitHub\Random_GUI\bin\Debug\IceWall Random.pdb
+D:\GitHub\Random_GUI\obj\Debug\IceWall Random.csprojAssemblyReference.cache
+D:\GitHub\Random_GUI\obj\Debug\IceWall_Random.Form1.resources
+D:\GitHub\Random_GUI\obj\Debug\IceWall_Random.Properties.Resources.resources
+D:\GitHub\Random_GUI\obj\Debug\IceWall Random.csproj.GenerateResource.cache
+D:\GitHub\Random_GUI\obj\Debug\IceWall Random.csproj.CoreCompileInputs.cache
+D:\GitHub\Random_GUI\obj\Debug\IceWall Random.exe
+D:\GitHub\Random_GUI\obj\Debug\IceWall Random.pdb

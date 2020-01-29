@@ -14,7 +14,7 @@ namespace IceWall_Random
     public partial class Form1 : Form
     {
 
-        public static ArrayList ContentList = new ArrayList (new string[]{ "과자", "술", "화장품", "라면", "항공사", "전자기기 회사", "치킨", "피자", "은행", "베스킨라빈스", "속옷브랜드", "명품브랜드" });
+        public static ArrayList ContentList = new ArrayList (new string[]{ "과자", "술", "화장품", "라면", "항공사", "전자기기 회사", "치킨", "피자", "은행", "베스킨라빈스", "한양대건물", "명품브랜드" });
 
         public Random rand = new Random();
 
