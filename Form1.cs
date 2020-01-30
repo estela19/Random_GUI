@@ -21,6 +21,8 @@ namespace IceWall_Random
         public Form1()
         {
             InitializeComponent();
+            WindowState = FormWindowState.Maximized;
+
         }
 
         public void choice()
